@@ -15,4 +15,8 @@ This Project contains the code to augment images so that if we have a small data
 10. Red Blur
 11. Green Blur
 12. Blue Blur
-
+13. Sunny Weather
+14. Shady Weather
+15. Snowy Weather With Sunny Conditions
+16. Snowy Weather With Shady Conditions
+17. Rain Weather
